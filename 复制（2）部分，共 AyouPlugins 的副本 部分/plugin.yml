@@ -1,0 +1,16 @@
+name: Ayouplugins
+version: 1.0
+main: com.github.Ayou.myplugins.main
+commands:
+  HAYO:
+    description: HAYO
+    usage: /<command>
+  Heal:
+  fly:
+Permissions:
+  Heal.Heal:
+    default: op
+  fly.use:
+    default: op
+  hayo.use:
+    default: op
